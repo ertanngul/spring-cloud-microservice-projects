@@ -1,2 +1,2 @@
-# spring-cloud-projects
-contains spring cloud projects
+# spring-cloud-microservice-projects
+cantains spring cloud microservice projects
